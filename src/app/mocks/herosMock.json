@@ -1,0 +1,3295 @@
+{
+    "hero": [
+    {
+        "id": 1,
+        "name": "Donetta",
+        "gender": "F",
+        "race": "Delaware",
+        "profession": "Senior Editor",
+        "age": 7,
+        "birth_place": "Pakistan",
+        "look": {
+            "height": 69,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 96,
+            "endurance": 76,
+            "agility": 6,
+            "intelligence": 73,
+            "charisma": 10
+        }
+    },
+    {
+        "id": 2,
+        "name": "Nadiya",
+        "gender": "F",
+        "race": "Melanesian",
+        "profession": "Librarian",
+        "age": 19,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 127,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 10,
+            "endurance": 8,
+            "agility": 39,
+            "intelligence": 51,
+            "charisma": 70
+        }
+    },
+    {
+        "id": 3,
+        "name": "Darrick",
+        "gender": "M",
+        "race": "Pima",
+        "profession": "Help Desk Operator",
+        "age": 72,
+        "birth_place": "France",
+        "look": {
+            "height": 168,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 85,
+            "endurance": 51,
+            "agility": 35,
+            "intelligence": 12,
+            "charisma": 16
+        }
+    },
+    {
+        "id": 4,
+        "name": "Jameson",
+        "gender": "M",
+        "race": "Yaqui",
+        "profession": "Librarian",
+        "age": 30,
+        "birth_place": "France",
+        "look": {
+            "height": 18,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 92,
+            "endurance": 75,
+            "agility": 6,
+            "intelligence": 4,
+            "charisma": 44
+        }
+    },
+    {
+        "id": 5,
+        "name": "Eldon",
+        "gender": "M",
+        "race": "Yaqui",
+        "profession": "VP Quality Control",
+        "age": 91,
+        "birth_place": "Laos",
+        "look": {
+            "height": 61,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 48,
+            "endurance": 43,
+            "agility": 11,
+            "intelligence": 72,
+            "charisma": 14
+        }
+    },
+    {
+        "id": 6,
+        "name": "Donelle",
+        "gender": "F",
+        "race": "Tohono O'Odham",
+        "profession": "Analog Circuit Design manager",
+        "age": 73,
+        "birth_place": "Morocco",
+        "look": {
+            "height": 13,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 5,
+            "endurance": 67,
+            "agility": 84,
+            "intelligence": 70,
+            "charisma": 99
+        }
+    },
+    {
+        "id": 7,
+        "name": "Vilma",
+        "gender": "F",
+        "race": "Chippewa",
+        "profession": "Software Consultant",
+        "age": 88,
+        "birth_place": "Colombia",
+        "look": {
+            "height": 187,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 15,
+            "endurance": 52,
+            "agility": 93,
+            "intelligence": 8,
+            "charisma": 98
+        }
+    },
+    {
+        "id": 8,
+        "name": "Theresa",
+        "gender": "F",
+        "race": "Salvadoran",
+        "profession": "Structural Engineer",
+        "age": 60,
+        "birth_place": "Ukraine",
+        "look": {
+            "height": 100,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 34,
+            "endurance": 51,
+            "agility": 72,
+            "intelligence": 66,
+            "charisma": 31
+        }
+    },
+    {
+        "id": 9,
+        "name": "Aurthur",
+        "gender": "M",
+        "race": "Asian Indian",
+        "profession": "Design Engineer",
+        "age": 79,
+        "birth_place": "Iran",
+        "look": {
+            "height": 91,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 97,
+            "endurance": 62,
+            "agility": 23,
+            "intelligence": 5,
+            "charisma": 11
+        }
+    },
+    {
+        "id": 10,
+        "name": "Shirlene",
+        "gender": "F",
+        "race": "Yuman",
+        "profession": "VP Product Management",
+        "age": 49,
+        "birth_place": "Bulgaria",
+        "look": {
+            "height": 62,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 78,
+            "endurance": 58,
+            "agility": 53,
+            "intelligence": 44,
+            "charisma": 84
+        }
+    },
+    {
+        "id": 11,
+        "name": "Geri",
+        "gender": "F",
+        "race": "Vietnamese",
+        "profession": "Associate Professor",
+        "age": 5,
+        "birth_place": "China",
+        "look": {
+            "height": 119,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 1,
+            "endurance": 92,
+            "agility": 17,
+            "intelligence": 52,
+            "charisma": 10
+        }
+    },
+    {
+        "id": 12,
+        "name": "Rozelle",
+        "gender": "F",
+        "race": "Puget Sound Salish",
+        "profession": "Nuclear Power Engineer",
+        "age": 99,
+        "birth_place": "Mali",
+        "look": {
+            "height": 197,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 52,
+            "endurance": 67,
+            "agility": 49,
+            "intelligence": 26,
+            "charisma": 85
+        }
+    },
+    {
+        "id": 13,
+        "name": "Kingsley",
+        "gender": "M",
+        "race": "Aleut",
+        "profession": "Automation Specialist II",
+        "age": 72,
+        "birth_place": "Sweden",
+        "look": {
+            "height": 181,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 43,
+            "endurance": 93,
+            "agility": 8,
+            "intelligence": 75,
+            "charisma": 16
+        }
+    },
+    {
+        "id": 14,
+        "name": "Egbert",
+        "gender": "M",
+        "race": "Cherokee",
+        "profession": "Health Coach IV",
+        "age": 33,
+        "birth_place": "Panama",
+        "look": {
+            "height": 157,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 6,
+            "endurance": 7,
+            "agility": 38,
+            "intelligence": 18,
+            "charisma": 93
+        }
+    },
+    {
+        "id": 15,
+        "name": "Walton",
+        "gender": "M",
+        "race": "Costa Rican",
+        "profession": "Nurse Practicioner",
+        "age": 68,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 114,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 79,
+            "endurance": 84,
+            "agility": 18,
+            "intelligence": 46,
+            "charisma": 81
+        }
+    },
+    {
+        "id": 16,
+        "name": "Bobette",
+        "gender": "F",
+        "race": "Costa Rican",
+        "profession": "VP Accounting",
+        "age": 85,
+        "birth_place": "Russia",
+        "look": {
+            "height": 165,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 64,
+            "endurance": 17,
+            "agility": 91,
+            "intelligence": 51,
+            "charisma": 66
+        }
+    },
+    {
+        "id": 17,
+        "name": "Ethelyn",
+        "gender": "F",
+        "race": "Kiowa",
+        "profession": "Director of Sales",
+        "age": 22,
+        "birth_place": "Myanmar",
+        "look": {
+            "height": 25,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 71,
+            "endurance": 12,
+            "agility": 45,
+            "intelligence": 92,
+            "charisma": 37
+        }
+    },
+    {
+        "id": 18,
+        "name": "Torey",
+        "gender": "F",
+        "race": "Navajo",
+        "profession": "Director of Sales",
+        "age": 91,
+        "birth_place": "Canada",
+        "look": {
+            "height": 75,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 83,
+            "endurance": 36,
+            "agility": 70,
+            "intelligence": 55,
+            "charisma": 98
+        }
+    },
+    {
+        "id": 19,
+        "name": "Jon",
+        "gender": "M",
+        "race": "Alaskan Athabascan",
+        "profession": "Help Desk Technician",
+        "age": 52,
+        "birth_place": "Ukraine",
+        "look": {
+            "height": 181,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 98,
+            "endurance": 14,
+            "agility": 25,
+            "intelligence": 46,
+            "charisma": 14
+        }
+    },
+    {
+        "id": 20,
+        "name": "Alicea",
+        "gender": "F",
+        "race": "Uruguayan",
+        "profession": "Environmental Tech",
+        "age": 74,
+        "birth_place": "Venezuela",
+        "look": {
+            "height": 100,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 98,
+            "endurance": 10,
+            "agility": 12,
+            "intelligence": 96,
+            "charisma": 32
+        }
+    },
+    {
+        "id": 21,
+        "name": "Guthrey",
+        "gender": "M",
+        "race": "Yuman",
+        "profession": "General Manager",
+        "age": 8,
+        "birth_place": "Croatia",
+        "look": {
+            "height": 16,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 50,
+            "endurance": 40,
+            "agility": 59,
+            "intelligence": 38,
+            "charisma": 26
+        }
+    },
+    {
+        "id": 22,
+        "name": "Luciano",
+        "gender": "M",
+        "race": "Crow",
+        "profession": "Senior Editor",
+        "age": 18,
+        "birth_place": "United States",
+        "look": {
+            "height": 151,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 1,
+            "endurance": 52,
+            "agility": 78,
+            "intelligence": 71,
+            "charisma": 16
+        }
+    },
+    {
+        "id": 23,
+        "name": "Valaria",
+        "gender": "F",
+        "race": "Ute",
+        "profession": "Nuclear Power Engineer",
+        "age": 83,
+        "birth_place": "China",
+        "look": {
+            "height": 7,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 51,
+            "endurance": 79,
+            "agility": 24,
+            "intelligence": 61,
+            "charisma": 95
+        }
+    },
+    {
+        "id": 24,
+        "name": "Daven",
+        "gender": "M",
+        "race": "Panamanian",
+        "profession": "Statistician I",
+        "age": 27,
+        "birth_place": "Czech Republic",
+        "look": {
+            "height": 17,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 24,
+            "endurance": 100,
+            "agility": 66,
+            "intelligence": 22,
+            "charisma": 14
+        }
+    },
+    {
+        "id": 25,
+        "name": "Sheppard",
+        "gender": "M",
+        "race": "Menominee",
+        "profession": "Quality Engineer",
+        "age": 69,
+        "birth_place": "Ivory Coast",
+        "look": {
+            "height": 131,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 9,
+            "endurance": 2,
+            "agility": 91,
+            "intelligence": 44,
+            "charisma": 84
+        }
+    },
+    {
+        "id": 26,
+        "name": "Krispin",
+        "gender": "M",
+        "race": "Puget Sound Salish",
+        "profession": "Help Desk Technician",
+        "age": 98,
+        "birth_place": "Malaysia",
+        "look": {
+            "height": 32,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 34,
+            "endurance": 40,
+            "agility": 78,
+            "intelligence": 28,
+            "charisma": 80
+        }
+    },
+    {
+        "id": 27,
+        "name": "Foss",
+        "gender": "M",
+        "race": "Chippewa",
+        "profession": "Recruiter",
+        "age": 82,
+        "birth_place": "Comoros",
+        "look": {
+            "height": 119,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 57,
+            "endurance": 6,
+            "agility": 23,
+            "intelligence": 39,
+            "charisma": 24
+        }
+    },
+    {
+        "id": 28,
+        "name": "Stanleigh",
+        "gender": "M",
+        "race": "Cuban",
+        "profession": "Payment Adjustment Coordinator",
+        "age": 71,
+        "birth_place": "Guatemala",
+        "look": {
+            "height": 190,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 41,
+            "endurance": 7,
+            "agility": 6,
+            "intelligence": 46,
+            "charisma": 99
+        }
+    },
+    {
+        "id": 29,
+        "name": "Mignon",
+        "gender": "F",
+        "race": "Comanche",
+        "profession": "Financial Advisor",
+        "age": 9,
+        "birth_place": "Sudan",
+        "look": {
+            "height": 1,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 88,
+            "endurance": 23,
+            "agility": 41,
+            "intelligence": 41,
+            "charisma": 20
+        }
+    },
+    {
+        "id": 30,
+        "name": "Xymenes",
+        "gender": "M",
+        "race": "Kiowa",
+        "profession": "VP Sales",
+        "age": 17,
+        "birth_place": "China",
+        "look": {
+            "height": 156,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 70,
+            "endurance": 28,
+            "agility": 23,
+            "intelligence": 44,
+            "charisma": 66
+        }
+    },
+    {
+        "id": 31,
+        "name": "Idelle",
+        "gender": "F",
+        "race": "Venezuelan",
+        "profession": "Programmer I",
+        "age": 53,
+        "birth_place": "Thailand",
+        "look": {
+            "height": 138,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 50,
+            "endurance": 2,
+            "agility": 22,
+            "intelligence": 11,
+            "charisma": 9
+        }
+    },
+    {
+        "id": 32,
+        "name": "Andy",
+        "gender": "M",
+        "race": "Asian Indian",
+        "profession": "Occupational Therapist",
+        "age": 4,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 38,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 72,
+            "endurance": 95,
+            "agility": 3,
+            "intelligence": 54,
+            "charisma": 95
+        }
+    },
+    {
+        "id": 33,
+        "name": "Gery",
+        "gender": "M",
+        "race": "Crow",
+        "profession": "Civil Engineer",
+        "age": 76,
+        "birth_place": "China",
+        "look": {
+            "height": 28,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 12,
+            "endurance": 74,
+            "agility": 10,
+            "intelligence": 81,
+            "charisma": 18
+        }
+    },
+    {
+        "id": 34,
+        "name": "Estella",
+        "gender": "F",
+        "race": "Native Hawaiian and Other Pacific Islander (NHPI)",
+        "profession": "Social Worker",
+        "age": 12,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 73,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 50,
+            "endurance": 37,
+            "agility": 2,
+            "intelligence": 56,
+            "charisma": 34
+        }
+    },
+    {
+        "id": 35,
+        "name": "Jerald",
+        "gender": "M",
+        "race": "Shoshone",
+        "profession": "Health Coach III",
+        "age": 90,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 23,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 88,
+            "endurance": 1,
+            "agility": 47,
+            "intelligence": 63,
+            "charisma": 25
+        }
+    },
+    {
+        "id": 36,
+        "name": "Rodolphe",
+        "gender": "M",
+        "race": "Native Hawaiian",
+        "profession": "Staff Scientist",
+        "age": 21,
+        "birth_place": "China",
+        "look": {
+            "height": 67,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 24,
+            "endurance": 53,
+            "agility": 91,
+            "intelligence": 30,
+            "charisma": 37
+        }
+    },
+    {
+        "id": 37,
+        "name": "Rik",
+        "gender": "M",
+        "race": "Kiowa",
+        "profession": "VP Quality Control",
+        "age": 14,
+        "birth_place": "China",
+        "look": {
+            "height": 132,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 11,
+            "endurance": 49,
+            "agility": 16,
+            "intelligence": 15,
+            "charisma": 75
+        }
+    },
+    {
+        "id": 38,
+        "name": "Constantine",
+        "gender": "F",
+        "race": "Native Hawaiian",
+        "profession": "Analog Circuit Design manager",
+        "age": 50,
+        "birth_place": "Mongolia",
+        "look": {
+            "height": 49,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 26,
+            "endurance": 97,
+            "agility": 98,
+            "intelligence": 99,
+            "charisma": 24
+        }
+    },
+    {
+        "id": 39,
+        "name": "Zed",
+        "gender": "M",
+        "race": "Pima",
+        "profession": "Quality Engineer",
+        "age": 64,
+        "birth_place": "Myanmar",
+        "look": {
+            "height": 50,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 87,
+            "endurance": 11,
+            "agility": 77,
+            "intelligence": 81,
+            "charisma": 69
+        }
+    },
+    {
+        "id": 40,
+        "name": "Thane",
+        "gender": "M",
+        "race": "Aleut",
+        "profession": "Cost Accountant",
+        "age": 1,
+        "birth_place": "France",
+        "look": {
+            "height": 105,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 25,
+            "endurance": 73,
+            "agility": 4,
+            "intelligence": 72,
+            "charisma": 10
+        }
+    },
+    {
+        "id": 41,
+        "name": "Samaria",
+        "gender": "F",
+        "race": "Guatemalan",
+        "profession": "Graphic Designer",
+        "age": 87,
+        "birth_place": "China",
+        "look": {
+            "height": 104,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 64,
+            "endurance": 76,
+            "agility": 85,
+            "intelligence": 85,
+            "charisma": 78
+        }
+    },
+    {
+        "id": 42,
+        "name": "Izabel",
+        "gender": "F",
+        "race": "American Indian",
+        "profession": "General Manager",
+        "age": 11,
+        "birth_place": "Japan",
+        "look": {
+            "height": 147,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 83,
+            "endurance": 50,
+            "agility": 100,
+            "intelligence": 22,
+            "charisma": 69
+        }
+    },
+    {
+        "id": 43,
+        "name": "Fae",
+        "gender": "F",
+        "race": "Eskimo",
+        "profession": "Help Desk Technician",
+        "age": 53,
+        "birth_place": "South Africa",
+        "look": {
+            "height": 125,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 85,
+            "endurance": 59,
+            "agility": 37,
+            "intelligence": 23,
+            "charisma": 76
+        }
+    },
+    {
+        "id": 44,
+        "name": "Cindra",
+        "gender": "F",
+        "race": "Asian",
+        "profession": "Legal Assistant",
+        "age": 79,
+        "birth_place": "Macedonia",
+        "look": {
+            "height": 94,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 99,
+            "endurance": 77,
+            "agility": 1,
+            "intelligence": 59,
+            "charisma": 24
+        }
+    },
+    {
+        "id": 45,
+        "name": "Eirena",
+        "gender": "F",
+        "race": "Navajo",
+        "profession": "VP Accounting",
+        "age": 68,
+        "birth_place": "Russia",
+        "look": {
+            "height": 176,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 22,
+            "endurance": 52,
+            "agility": 65,
+            "intelligence": 40,
+            "charisma": 6
+        }
+    },
+    {
+        "id": 46,
+        "name": "Garald",
+        "gender": "M",
+        "race": "Salvadoran",
+        "profession": "Graphic Designer",
+        "age": 93,
+        "birth_place": "Sweden",
+        "look": {
+            "height": 128,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 75,
+            "endurance": 63,
+            "agility": 26,
+            "intelligence": 23,
+            "charisma": 69
+        }
+    },
+    {
+        "id": 47,
+        "name": "Marsiella",
+        "gender": "F",
+        "race": "Iroquois",
+        "profession": "Automation Specialist IV",
+        "age": 64,
+        "birth_place": "Thailand",
+        "look": {
+            "height": 57,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 66,
+            "endurance": 70,
+            "agility": 14,
+            "intelligence": 39,
+            "charisma": 42
+        }
+    },
+    {
+        "id": 48,
+        "name": "Tabby",
+        "gender": "M",
+        "race": "Colombian",
+        "profession": "Health Coach III",
+        "age": 48,
+        "birth_place": "Sweden",
+        "look": {
+            "height": 139,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 94,
+            "endurance": 39,
+            "agility": 39,
+            "intelligence": 92,
+            "charisma": 40
+        }
+    },
+    {
+        "id": 49,
+        "name": "Jard",
+        "gender": "M",
+        "race": "Blackfeet",
+        "profession": "Programmer I",
+        "age": 29,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 178,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 5,
+            "endurance": 21,
+            "agility": 20,
+            "intelligence": 53,
+            "charisma": 89
+        }
+    },
+    {
+        "id": 50,
+        "name": "Berton",
+        "gender": "M",
+        "race": "Potawatomi",
+        "profession": "Senior Quality Engineer",
+        "age": 76,
+        "birth_place": "Russia",
+        "look": {
+            "height": 169,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 58,
+            "endurance": 29,
+            "agility": 72,
+            "intelligence": 53,
+            "charisma": 64
+        }
+    },
+    {
+        "id": 51,
+        "name": "Marigold",
+        "gender": "F",
+        "race": "Paraguayan",
+        "profession": "Recruiting Manager",
+        "age": 7,
+        "birth_place": "Sweden",
+        "look": {
+            "height": 75,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 44,
+            "endurance": 29,
+            "agility": 94,
+            "intelligence": 53,
+            "charisma": 13
+        }
+    },
+    {
+        "id": 52,
+        "name": "Corby",
+        "gender": "M",
+        "race": "Costa Rican",
+        "profession": "Account Coordinator",
+        "age": 56,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 76,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 40,
+            "endurance": 20,
+            "agility": 79,
+            "intelligence": 96,
+            "charisma": 73
+        }
+    },
+    {
+        "id": 53,
+        "name": "Fannie",
+        "gender": "F",
+        "race": "Colville",
+        "profession": "Quality Engineer",
+        "age": 60,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 59,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 27,
+            "endurance": 59,
+            "agility": 67,
+            "intelligence": 80,
+            "charisma": 43
+        }
+    },
+    {
+        "id": 54,
+        "name": "Rosemonde",
+        "gender": "F",
+        "race": "Puget Sound Salish",
+        "profession": "Research Nurse",
+        "age": 2,
+        "birth_place": "United States",
+        "look": {
+            "height": 156,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 7,
+            "endurance": 12,
+            "agility": 68,
+            "intelligence": 25,
+            "charisma": 92
+        }
+    },
+    {
+        "id": 55,
+        "name": "Jenn",
+        "gender": "F",
+        "race": "Chilean",
+        "profession": "Statistician IV",
+        "age": 68,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 161,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 22,
+            "endurance": 38,
+            "agility": 17,
+            "intelligence": 68,
+            "charisma": 38
+        }
+    },
+    {
+        "id": 56,
+        "name": "Fidela",
+        "gender": "F",
+        "race": "Delaware",
+        "profession": "Safety Technician I",
+        "age": 3,
+        "birth_place": "United States",
+        "look": {
+            "height": 60,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 95,
+            "endurance": 58,
+            "agility": 93,
+            "intelligence": 63,
+            "charisma": 24
+        }
+    },
+    {
+        "id": 57,
+        "name": "Andy",
+        "gender": "M",
+        "race": "American Indian",
+        "profession": "Engineer III",
+        "age": 54,
+        "birth_place": "Cuba",
+        "look": {
+            "height": 70,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 91,
+            "endurance": 21,
+            "agility": 9,
+            "intelligence": 45,
+            "charisma": 24
+        }
+    },
+    {
+        "id": 58,
+        "name": "Galen",
+        "gender": "M",
+        "race": "Bangladeshi",
+        "profession": "Data Coordiator",
+        "age": 45,
+        "birth_place": "Canada",
+        "look": {
+            "height": 122,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 21,
+            "endurance": 52,
+            "agility": 40,
+            "intelligence": 97,
+            "charisma": 20
+        }
+    },
+    {
+        "id": 59,
+        "name": "Stephannie",
+        "gender": "F",
+        "race": "Crow",
+        "profession": "Biostatistician III",
+        "age": 28,
+        "birth_place": "Philippines",
+        "look": {
+            "height": 179,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 14,
+            "endurance": 85,
+            "agility": 4,
+            "intelligence": 44,
+            "charisma": 33
+        }
+    },
+    {
+        "id": 60,
+        "name": "Gratiana",
+        "gender": "F",
+        "race": "Taiwanese",
+        "profession": "Administrative Officer",
+        "age": 100,
+        "birth_place": "Botswana",
+        "look": {
+            "height": 187,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 78,
+            "endurance": 82,
+            "agility": 55,
+            "intelligence": 34,
+            "charisma": 35
+        }
+    },
+    {
+        "id": 61,
+        "name": "Eb",
+        "gender": "M",
+        "race": "Apache",
+        "profession": "Librarian",
+        "age": 8,
+        "birth_place": "Philippines",
+        "look": {
+            "height": 127,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 52,
+            "endurance": 3,
+            "agility": 74,
+            "intelligence": 17,
+            "charisma": 45
+        }
+    },
+    {
+        "id": 62,
+        "name": "Hans",
+        "gender": "M",
+        "race": "Bolivian",
+        "profession": "Speech Pathologist",
+        "age": 64,
+        "birth_place": "China",
+        "look": {
+            "height": 41,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 10,
+            "endurance": 13,
+            "agility": 18,
+            "intelligence": 99,
+            "charisma": 74
+        }
+    },
+    {
+        "id": 63,
+        "name": "Huberto",
+        "gender": "M",
+        "race": "Bangladeshi",
+        "profession": "Senior Quality Engineer",
+        "age": 68,
+        "birth_place": "Argentina",
+        "look": {
+            "height": 80,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 61,
+            "endurance": 31,
+            "agility": 6,
+            "intelligence": 30,
+            "charisma": 12
+        }
+    },
+    {
+        "id": 64,
+        "name": "Jackie",
+        "gender": "M",
+        "race": "Eskimo",
+        "profession": "Electrical Engineer",
+        "age": 35,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 88,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 13,
+            "endurance": 35,
+            "agility": 6,
+            "intelligence": 54,
+            "charisma": 59
+        }
+    },
+    {
+        "id": 65,
+        "name": "Vasilis",
+        "gender": "M",
+        "race": "Sri Lankan",
+        "profession": "GIS Technical Architect",
+        "age": 25,
+        "birth_place": "Argentina",
+        "look": {
+            "height": 193,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 34,
+            "endurance": 18,
+            "agility": 29,
+            "intelligence": 40,
+            "charisma": 33
+        }
+    },
+    {
+        "id": 66,
+        "name": "Katerine",
+        "gender": "F",
+        "race": "Guatemalan",
+        "profession": "Help Desk Technician",
+        "age": 32,
+        "birth_place": "Philippines",
+        "look": {
+            "height": 200,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 98,
+            "endurance": 92,
+            "agility": 8,
+            "intelligence": 20,
+            "charisma": 54
+        }
+    },
+    {
+        "id": 67,
+        "name": "Franklyn",
+        "gender": "M",
+        "race": "American Indian",
+        "profession": "Automation Specialist I",
+        "age": 12,
+        "birth_place": "China",
+        "look": {
+            "height": 198,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 32,
+            "endurance": 65,
+            "agility": 77,
+            "intelligence": 90,
+            "charisma": 16
+        }
+    },
+    {
+        "id": 68,
+        "name": "Jeffrey",
+        "gender": "M",
+        "race": "Guamanian",
+        "profession": "Sales Representative",
+        "age": 36,
+        "birth_place": "Russia",
+        "look": {
+            "height": 89,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 34,
+            "endurance": 83,
+            "agility": 67,
+            "intelligence": 62,
+            "charisma": 13
+        }
+    },
+    {
+        "id": 69,
+        "name": "Amelia",
+        "gender": "F",
+        "race": "Polynesian",
+        "profession": "Human Resources Assistant I",
+        "age": 32,
+        "birth_place": "China",
+        "look": {
+            "height": 47,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 4,
+            "endurance": 97,
+            "agility": 95,
+            "intelligence": 5,
+            "charisma": 27
+        }
+    },
+    {
+        "id": 70,
+        "name": "Dennie",
+        "gender": "M",
+        "race": "Cherokee",
+        "profession": "Developer I",
+        "age": 6,
+        "birth_place": "Nigeria",
+        "look": {
+            "height": 37,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 88,
+            "endurance": 56,
+            "agility": 80,
+            "intelligence": 38,
+            "charisma": 58
+        }
+    },
+    {
+        "id": 71,
+        "name": "Karlene",
+        "gender": "F",
+        "race": "Dominican (Dominican Republic)",
+        "profession": "Programmer IV",
+        "age": 39,
+        "birth_place": "China",
+        "look": {
+            "height": 125,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 4,
+            "endurance": 62,
+            "agility": 71,
+            "intelligence": 14,
+            "charisma": 10
+        }
+    },
+    {
+        "id": 72,
+        "name": "Albrecht",
+        "gender": "M",
+        "race": "Asian Indian",
+        "profession": "Senior Financial Analyst",
+        "age": 19,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 152,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 35,
+            "endurance": 41,
+            "agility": 97,
+            "intelligence": 63,
+            "charisma": 14
+        }
+    },
+    {
+        "id": 73,
+        "name": "Orville",
+        "gender": "M",
+        "race": "Filipino",
+        "profession": "Accountant I",
+        "age": 66,
+        "birth_place": "Japan",
+        "look": {
+            "height": 82,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 83,
+            "endurance": 30,
+            "agility": 63,
+            "intelligence": 17,
+            "charisma": 43
+        }
+    },
+    {
+        "id": 74,
+        "name": "Dall",
+        "gender": "M",
+        "race": "Colombian",
+        "profession": "Project Manager",
+        "age": 80,
+        "birth_place": "Ethiopia",
+        "look": {
+            "height": 191,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 73,
+            "endurance": 7,
+            "agility": 54,
+            "intelligence": 58,
+            "charisma": 7
+        }
+    },
+    {
+        "id": 75,
+        "name": "Keri",
+        "gender": "F",
+        "race": "Latin American Indian",
+        "profession": "Project Manager",
+        "age": 74,
+        "birth_place": "United States",
+        "look": {
+            "height": 13,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 20,
+            "endurance": 83,
+            "agility": 64,
+            "intelligence": 7,
+            "charisma": 48
+        }
+    },
+    {
+        "id": 76,
+        "name": "Gregorius",
+        "gender": "M",
+        "race": "Panamanian",
+        "profession": "Director of Sales",
+        "age": 69,
+        "birth_place": "Yemen",
+        "look": {
+            "height": 111,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 24,
+            "endurance": 95,
+            "agility": 94,
+            "intelligence": 8,
+            "charisma": 79
+        }
+    },
+    {
+        "id": 77,
+        "name": "Emelina",
+        "gender": "F",
+        "race": "Asian",
+        "profession": "Budget/Accounting Analyst II",
+        "age": 29,
+        "birth_place": "Philippines",
+        "look": {
+            "height": 179,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 79,
+            "endurance": 63,
+            "agility": 24,
+            "intelligence": 15,
+            "charisma": 64
+        }
+    },
+    {
+        "id": 78,
+        "name": "Tuck",
+        "gender": "M",
+        "race": "Native Hawaiian",
+        "profession": "Programmer Analyst III",
+        "age": 71,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 133,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 92,
+            "endurance": 18,
+            "agility": 44,
+            "intelligence": 52,
+            "charisma": 86
+        }
+    },
+    {
+        "id": 79,
+        "name": "Leonerd",
+        "gender": "M",
+        "race": "Fijian",
+        "profession": "Account Coordinator",
+        "age": 9,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 21,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 13,
+            "endurance": 2,
+            "agility": 73,
+            "intelligence": 23,
+            "charisma": 95
+        }
+    },
+    {
+        "id": 80,
+        "name": "Brodie",
+        "gender": "M",
+        "race": "Kiowa",
+        "profession": "Occupational Therapist",
+        "age": 72,
+        "birth_place": "New Zealand",
+        "look": {
+            "height": 143,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 38,
+            "endurance": 99,
+            "agility": 29,
+            "intelligence": 7,
+            "charisma": 33
+        }
+    },
+    {
+        "id": 81,
+        "name": "Nikola",
+        "gender": "M",
+        "race": "Black or African American",
+        "profession": "Senior Quality Engineer",
+        "age": 37,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 165,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 6,
+            "endurance": 57,
+            "agility": 96,
+            "intelligence": 50,
+            "charisma": 70
+        }
+    },
+    {
+        "id": 82,
+        "name": "Delora",
+        "gender": "F",
+        "race": "Yaqui",
+        "profession": "Design Engineer",
+        "age": 1,
+        "birth_place": "Ukraine",
+        "look": {
+            "height": 93,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 64,
+            "endurance": 78,
+            "agility": 84,
+            "intelligence": 51,
+            "charisma": 3
+        }
+    },
+    {
+        "id": 83,
+        "name": "Rhiamon",
+        "gender": "F",
+        "race": "Pima",
+        "profession": "Structural Analysis Engineer",
+        "age": 39,
+        "birth_place": "Sweden",
+        "look": {
+            "height": 100,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 78,
+            "endurance": 11,
+            "agility": 74,
+            "intelligence": 12,
+            "charisma": 5
+        }
+    },
+    {
+        "id": 84,
+        "name": "Christoforo",
+        "gender": "M",
+        "race": "Uruguayan",
+        "profession": "VP Quality Control",
+        "age": 81,
+        "birth_place": "China",
+        "look": {
+            "height": 20,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 91,
+            "endurance": 11,
+            "agility": 47,
+            "intelligence": 59,
+            "charisma": 32
+        }
+    },
+    {
+        "id": 85,
+        "name": "Frank",
+        "gender": "F",
+        "race": "Aleut",
+        "profession": "Computer Systems Analyst IV",
+        "age": 17,
+        "birth_place": "France",
+        "look": {
+            "height": 147,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 88,
+            "endurance": 24,
+            "agility": 16,
+            "intelligence": 22,
+            "charisma": 94
+        }
+    },
+    {
+        "id": 86,
+        "name": "Bail",
+        "gender": "M",
+        "race": "Seminole",
+        "profession": "Structural Engineer",
+        "age": 68,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 135,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 26,
+            "endurance": 24,
+            "agility": 5,
+            "intelligence": 85,
+            "charisma": 34
+        }
+    },
+    {
+        "id": 87,
+        "name": "Mayor",
+        "gender": "M",
+        "race": "Chickasaw",
+        "profession": "Senior Financial Analyst",
+        "age": 24,
+        "birth_place": "Poland",
+        "look": {
+            "height": 121,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 44,
+            "endurance": 4,
+            "agility": 96,
+            "intelligence": 69,
+            "charisma": 79
+        }
+    },
+    {
+        "id": 88,
+        "name": "Nonnah",
+        "gender": "F",
+        "race": "Choctaw",
+        "profession": "Statistician III",
+        "age": 19,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 170,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 87,
+            "endurance": 51,
+            "agility": 57,
+            "intelligence": 28,
+            "charisma": 94
+        }
+    },
+    {
+        "id": 89,
+        "name": "Gerard",
+        "gender": "M",
+        "race": "Menominee",
+        "profession": "Administrative Officer",
+        "age": 28,
+        "birth_place": "France",
+        "look": {
+            "height": 141,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 81,
+            "endurance": 37,
+            "agility": 83,
+            "intelligence": 46,
+            "charisma": 70
+        }
+    },
+    {
+        "id": 90,
+        "name": "Audrye",
+        "gender": "F",
+        "race": "Indonesian",
+        "profession": "VP Sales",
+        "age": 85,
+        "birth_place": "France",
+        "look": {
+            "height": 54,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 61,
+            "endurance": 96,
+            "agility": 9,
+            "intelligence": 76,
+            "charisma": 31
+        }
+    },
+    {
+        "id": 91,
+        "name": "Marlane",
+        "gender": "F",
+        "race": "Yuman",
+        "profession": "Business Systems Development Analyst",
+        "age": 79,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 23,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 49,
+            "endurance": 63,
+            "agility": 6,
+            "intelligence": 35,
+            "charisma": 77
+        }
+    },
+    {
+        "id": 92,
+        "name": "Johny",
+        "gender": "M",
+        "race": "Chickasaw",
+        "profession": "Nurse",
+        "age": 58,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 189,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 16,
+            "endurance": 14,
+            "agility": 43,
+            "intelligence": 51,
+            "charisma": 75
+        }
+    },
+    {
+        "id": 93,
+        "name": "Urbano",
+        "gender": "M",
+        "race": "Cherokee",
+        "profession": "Administrative Officer",
+        "age": 77,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 34,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 35,
+            "endurance": 32,
+            "agility": 3,
+            "intelligence": 81,
+            "charisma": 85
+        }
+    },
+    {
+        "id": 94,
+        "name": "Andee",
+        "gender": "F",
+        "race": "Asian",
+        "profession": "Geologist II",
+        "age": 1,
+        "birth_place": "China",
+        "look": {
+            "height": 75,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 11,
+            "endurance": 74,
+            "agility": 37,
+            "intelligence": 16,
+            "charisma": 17
+        }
+    },
+    {
+        "id": 95,
+        "name": "Oralia",
+        "gender": "F",
+        "race": "Eskimo",
+        "profession": "Operator",
+        "age": 6,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 42,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 90,
+            "endurance": 20,
+            "agility": 14,
+            "intelligence": 97,
+            "charisma": 99
+        }
+    },
+    {
+        "id": 96,
+        "name": "Codie",
+        "gender": "F",
+        "race": "Pima",
+        "profession": "Financial Analyst",
+        "age": 15,
+        "birth_place": "China",
+        "look": {
+            "height": 74,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 81,
+            "endurance": 81,
+            "agility": 82,
+            "intelligence": 17,
+            "charisma": 79
+        }
+    },
+    {
+        "id": 97,
+        "name": "Karissa",
+        "gender": "F",
+        "race": "Sioux",
+        "profession": "Speech Pathologist",
+        "age": 7,
+        "birth_place": "China",
+        "look": {
+            "height": 79,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 6,
+            "endurance": 78,
+            "agility": 5,
+            "intelligence": 38,
+            "charisma": 37
+        }
+    },
+    {
+        "id": 98,
+        "name": "Evin",
+        "gender": "M",
+        "race": "Chippewa",
+        "profession": "Safety Technician I",
+        "age": 49,
+        "birth_place": "France",
+        "look": {
+            "height": 77,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 44,
+            "endurance": 97,
+            "agility": 17,
+            "intelligence": 95,
+            "charisma": 47
+        }
+    },
+    {
+        "id": 99,
+        "name": "Jefferson",
+        "gender": "M",
+        "race": "Yakama",
+        "profession": "Cost Accountant",
+        "age": 89,
+        "birth_place": "Indonesia",
+        "look": {
+            "height": 145,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 31,
+            "endurance": 9,
+            "agility": 49,
+            "intelligence": 50,
+            "charisma": 30
+        }
+    },
+    {
+        "id": 100,
+        "name": "Shannon",
+        "gender": "F",
+        "race": "Lumbee",
+        "profession": "Account Executive",
+        "age": 97,
+        "birth_place": "Brazil",
+        "look": {
+            "height": 63,
+            "hair": "ginger",
+            "eyes": "brown",
+            "skin": "dark",
+            "special_characters": "No specials yet."
+        },
+        "description": [
+            {
+            "title": "Morbi ut odio.",
+            "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            },
+            {
+                "title": "Vestibulum ut lacinia.",
+                "content": "Tristique ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+            }
+        ],
+        "stats": {
+            "strenght": 53,
+            "endurance": 32,
+            "agility": 34,
+            "intelligence": 8,
+            "charisma": 80
+        }
+    }]
+}
