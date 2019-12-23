@@ -7,7 +7,16 @@
     <mat-radio-group aria-label="Select an option" formControlName="gender">
         <mat-radio-button value="Male">Male</mat-radio-button>
         <mat-radio-button value="Female">Female</mat-radio-button>
-      </mat-radio-group>
+    </mat-radio-group>
+    <br>
+    <mat-form-field>
+        <mat-label>Breed</mat-label>
+        <mat-select  formControlName="race">
+            <mat-option *ngFor="let race of races" [value]="race.name">
+                {{race.name}}
+            </mat-option>
+        </mat-select>
+    </mat-form-field>
     <br>
     <button mat-raised-button color="primary" type="submit" [disabled]="!heroForm.valid">Submit</button>
 </form>

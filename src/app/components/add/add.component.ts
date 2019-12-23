@@ -19,7 +19,8 @@ export class AddComponent implements OnInit {
 
   private heroForm = this.fb.group({
     name: ['', Validators.required],
-    gender: ['', Validators.required]
+    gender: ['', Validators.required],
+    race: ['', Validators.required]
   });
 
   onSubmit() {
