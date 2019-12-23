@@ -1,11 +1,12 @@
 <mat-toolbar color="primary">
   <mat-toolbar-row>
-    <span>Heroes</span>
+    <a href="/home" ><h1>Heroes</h1></a>
     <div>
+      &nbsp;<i class="fas fa-search search"></i>
       <mat-form-field class="example-full-width">
       <input matInput value="">
       </mat-form-field>
-      &nbsp;<i class="fas fa-search"></i>
+      <button class="button" mat-raised-button color="accent" routerLink="/add">Add hero</button>
     </div>
   </mat-toolbar-row>
 </mat-toolbar>

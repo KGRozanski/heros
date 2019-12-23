@@ -4,6 +4,10 @@ import { ListComponent } from './components/list/list.component';
 import { HeroResolver } from './core/resolvers/hero.resolver';
 import { DetailComponent } from './components/detail/detail.component';
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
+import { SingleHeroResolver } from './core/resolvers/single-hero.resolver';
+import { AvatarResolver } from './core/resolvers/avatar.resolver';
+import { AddComponent } from './components/add/add.component';
+import { RacesResolver } from './core/resolvers/races.resolver';
 
 
 const routes: Routes = [
@@ -18,7 +22,19 @@ const routes: Routes = [
   {
     path: 'detail/:id',
     component: DetailComponent,
-    pathMatch: 'full'
+    pathMatch: 'full',
+    resolve: {
+      heroDetails: SingleHeroResolver,
+      heroAvatar: AvatarResolver
+    }
+  },
+  {
+    path: 'add',
+    component: AddComponent,
+    pathMatch: 'full',
+    resolve: {
+      races: RacesResolver
+    }
   },
   {
     path: '',
