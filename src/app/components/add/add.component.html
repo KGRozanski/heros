@@ -1,0 +1,13 @@
+<h1>New hero details:</h1>
+<form [formGroup]="heroForm" (ngSubmit)="onSubmit()">
+    <mat-form-field class="example-full-width">
+        <input formControlName="name" matInput placeholder="Name" value="">
+    </mat-form-field>
+    <br>
+    <mat-radio-group aria-label="Select an option" formControlName="gender">
+        <mat-radio-button value="Male">Male</mat-radio-button>
+        <mat-radio-button value="Female">Female</mat-radio-button>
+      </mat-radio-group>
+    <br>
+    <button mat-raised-button color="primary" type="submit" [disabled]="!heroForm.valid">Submit</button>
+</form>
