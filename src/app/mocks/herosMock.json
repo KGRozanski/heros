@@ -31,7 +31,7 @@
     "hero": [{
             "id": 1,
             "name": "Donetta",
-            "gender": "F",
+            "gender": "Female",
             "race": "Delaware",
             "profession": "Senior Editor",
             "age": 7,
@@ -63,7 +63,7 @@
         {
             "id": 2,
             "name": "Nadiya",
-            "gender": "F",
+            "gender": "Female",
             "race": "Melanesian",
             "profession": "Librarian",
             "age": 19,
@@ -95,7 +95,7 @@
         {
             "id": 3,
             "name": "Darrick",
-            "gender": "M",
+            "gender": "Male",
             "race": "Pima",
             "profession": "Help Desk Operator",
             "age": 72,
@@ -122,7 +122,7 @@
         {
             "id": 4,
             "name": "Jameson",
-            "gender": "M",
+            "gender": "Male",
             "race": "Yaqui",
             "profession": "Librarian",
             "age": 30,
@@ -154,7 +154,7 @@
         {
             "id": 5,
             "name": "Eldon",
-            "gender": "M",
+            "gender": "Male",
             "race": "Yaqui",
             "profession": "VP Quality Control",
             "age": 91,
@@ -181,7 +181,7 @@
         {
             "id": 6,
             "name": "Donelle",
-            "gender": "F",
+            "gender": "Female",
             "race": "Tohono O'Odham",
             "profession": "Analog Circuit Design manager",
             "age": 73,
@@ -213,7 +213,7 @@
         {
             "id": 7,
             "name": "Vilma",
-            "gender": "F",
+            "gender": "Female",
             "race": "Chippewa",
             "profession": "Software Consultant",
             "age": 88,
@@ -245,7 +245,7 @@
         {
             "id": 8,
             "name": "Theresa",
-            "gender": "F",
+            "gender": "Female",
             "race": "Salvadoran",
             "profession": "Structural Engineer",
             "age": 60,
@@ -272,7 +272,7 @@
         {
             "id": 9,
             "name": "Aurthur",
-            "gender": "M",
+            "gender": "Male",
             "race": "Asian Indian",
             "profession": "Design Engineer",
             "age": 79,
@@ -308,7 +308,7 @@
         {
             "id": 10,
             "name": "Shirlene",
-            "gender": "F",
+            "gender": "Female",
             "race": "Yuman",
             "profession": "VP Product Management",
             "age": 49,
@@ -335,7 +335,7 @@
         {
             "id": 11,
             "name": "Geri",
-            "gender": "F",
+            "gender": "Female",
             "race": "Vietnamese",
             "profession": "Associate Professor",
             "age": 5,
@@ -371,7 +371,7 @@
         {
             "id": 12,
             "name": "Rozelle",
-            "gender": "F",
+            "gender": "Female",
             "race": "Puget Sound Salish",
             "profession": "Nuclear Power Engineer",
             "age": 99,
@@ -403,7 +403,7 @@
         {
             "id": 13,
             "name": "Kingsley",
-            "gender": "M",
+            "gender": "Male",
             "race": "Aleut",
             "profession": "Automation Specialist II",
             "age": 72,
@@ -435,7 +435,7 @@
         {
             "id": 14,
             "name": "Egbert",
-            "gender": "M",
+            "gender": "Male",
             "race": "Cherokee",
             "profession": "Health Coach IV",
             "age": 33,
@@ -467,7 +467,7 @@
         {
             "id": 15,
             "name": "Walton",
-            "gender": "M",
+            "gender": "Male",
             "race": "Costa Rican",
             "profession": "Nurse Practicioner",
             "age": 68,
@@ -499,7 +499,7 @@
         {
             "id": 16,
             "name": "Bobette",
-            "gender": "F",
+            "gender": "Female",
             "race": "Costa Rican",
             "profession": "VP Accounting",
             "age": 85,
@@ -531,7 +531,7 @@
         {
             "id": 17,
             "name": "Ethelyn",
-            "gender": "F",
+            "gender": "Female",
             "race": "Kiowa",
             "profession": "Director of Sales",
             "age": 22,
@@ -563,7 +563,7 @@
         {
             "id": 18,
             "name": "Torey",
-            "gender": "F",
+            "gender": "Female",
             "race": "Navajo",
             "profession": "Director of Sales",
             "age": 91,
@@ -595,7 +595,7 @@
         {
             "id": 19,
             "name": "Jon",
-            "gender": "M",
+            "gender": "Male",
             "race": "Alaskan Athabascan",
             "profession": "Help Desk Technician",
             "age": 52,
@@ -627,7 +627,7 @@
         {
             "id": 20,
             "name": "Alicea",
-            "gender": "F",
+            "gender": "Female",
             "race": "Uruguayan",
             "profession": "Environmental Tech",
             "age": 74,
@@ -659,7 +659,7 @@
         {
             "id": 21,
             "name": "Guthrey",
-            "gender": "M",
+            "gender": "Male",
             "race": "Yuman",
             "profession": "General Manager",
             "age": 8,
@@ -691,7 +691,7 @@
         {
             "id": 22,
             "name": "Luciano",
-            "gender": "M",
+            "gender": "Male",
             "race": "Crow",
             "profession": "Senior Editor",
             "age": 18,
@@ -723,7 +723,7 @@
         {
             "id": 23,
             "name": "Valaria",
-            "gender": "F",
+            "gender": "Female",
             "race": "Ute",
             "profession": "Nuclear Power Engineer",
             "age": 83,
@@ -755,7 +755,7 @@
         {
             "id": 24,
             "name": "Daven",
-            "gender": "M",
+            "gender": "Male",
             "race": "Panamanian",
             "profession": "Statistician I",
             "age": 27,
@@ -787,7 +787,7 @@
         {
             "id": 25,
             "name": "Sheppard",
-            "gender": "M",
+            "gender": "Male",
             "race": "Menominee",
             "profession": "Quality Engineer",
             "age": 69,
@@ -819,7 +819,7 @@
         {
             "id": 26,
             "name": "Krispin",
-            "gender": "M",
+            "gender": "Male",
             "race": "Puget Sound Salish",
             "profession": "Help Desk Technician",
             "age": 98,
@@ -851,7 +851,7 @@
         {
             "id": 27,
             "name": "Foss",
-            "gender": "M",
+            "gender": "Male",
             "race": "Chippewa",
             "profession": "Recruiter",
             "age": 82,
@@ -883,7 +883,7 @@
         {
             "id": 28,
             "name": "Stanleigh",
-            "gender": "M",
+            "gender": "Male",
             "race": "Cuban",
             "profession": "Payment Adjustment Coordinator",
             "age": 71,
@@ -915,7 +915,7 @@
         {
             "id": 29,
             "name": "Mignon",
-            "gender": "F",
+            "gender": "Female",
             "race": "Comanche",
             "profession": "Financial Advisor",
             "age": 9,
@@ -947,7 +947,7 @@
         {
             "id": 30,
             "name": "Xymenes",
-            "gender": "M",
+            "gender": "Male",
             "race": "Kiowa",
             "profession": "VP Sales",
             "age": 17,
@@ -979,7 +979,7 @@
         {
             "id": 31,
             "name": "Idelle",
-            "gender": "F",
+            "gender": "Female",
             "race": "Venezuelan",
             "profession": "Programmer I",
             "age": 53,
@@ -1011,7 +1011,7 @@
         {
             "id": 32,
             "name": "Andy",
-            "gender": "M",
+            "gender": "Male",
             "race": "Asian Indian",
             "profession": "Occupational Therapist",
             "age": 4,
@@ -1043,7 +1043,7 @@
         {
             "id": 33,
             "name": "Gery",
-            "gender": "M",
+            "gender": "Male",
             "race": "Crow",
             "profession": "Civil Engineer",
             "age": 76,
@@ -1075,7 +1075,7 @@
         {
             "id": 34,
             "name": "Estella",
-            "gender": "F",
+            "gender": "Female",
             "race": "Native Hawaiian and Other Pacific Islander (NHPI)",
             "profession": "Social Worker",
             "age": 12,
@@ -1107,7 +1107,7 @@
         {
             "id": 35,
             "name": "Jerald",
-            "gender": "M",
+            "gender": "Male",
             "race": "Shoshone",
             "profession": "Health Coach III",
             "age": 90,
@@ -1139,7 +1139,7 @@
         {
             "id": 36,
             "name": "Rodolphe",
-            "gender": "M",
+            "gender": "Male",
             "race": "Native Hawaiian",
             "profession": "Staff Scientist",
             "age": 21,
@@ -1171,7 +1171,7 @@
         {
             "id": 37,
             "name": "Rik",
-            "gender": "M",
+            "gender": "Male",
             "race": "Kiowa",
             "profession": "VP Quality Control",
             "age": 14,
@@ -1203,7 +1203,7 @@
         {
             "id": 38,
             "name": "Constantine",
-            "gender": "F",
+            "gender": "Female",
             "race": "Native Hawaiian",
             "profession": "Analog Circuit Design manager",
             "age": 50,
@@ -1235,7 +1235,7 @@
         {
             "id": 39,
             "name": "Zed",
-            "gender": "M",
+            "gender": "Male",
             "race": "Pima",
             "profession": "Quality Engineer",
             "age": 64,
@@ -1267,7 +1267,7 @@
         {
             "id": 40,
             "name": "Thane",
-            "gender": "M",
+            "gender": "Male",
             "race": "Aleut",
             "profession": "Cost Accountant",
             "age": 1,
@@ -1299,7 +1299,7 @@
         {
             "id": 41,
             "name": "Samaria",
-            "gender": "F",
+            "gender": "Female",
             "race": "Guatemalan",
             "profession": "Graphic Designer",
             "age": 87,
@@ -1331,7 +1331,7 @@
         {
             "id": 42,
             "name": "Izabel",
-            "gender": "F",
+            "gender": "Female",
             "race": "American Indian",
             "profession": "General Manager",
             "age": 11,
@@ -1363,7 +1363,7 @@
         {
             "id": 43,
             "name": "Fae",
-            "gender": "F",
+            "gender": "Female",
             "race": "Eskimo",
             "profession": "Help Desk Technician",
             "age": 53,
@@ -1395,7 +1395,7 @@
         {
             "id": 44,
             "name": "Cindra",
-            "gender": "F",
+            "gender": "Female",
             "race": "Asian",
             "profession": "Legal Assistant",
             "age": 79,
@@ -1427,7 +1427,7 @@
         {
             "id": 45,
             "name": "Eirena",
-            "gender": "F",
+            "gender": "Female",
             "race": "Navajo",
             "profession": "VP Accounting",
             "age": 68,
@@ -1459,7 +1459,7 @@
         {
             "id": 46,
             "name": "Garald",
-            "gender": "M",
+            "gender": "Male",
             "race": "Salvadoran",
             "profession": "Graphic Designer",
             "age": 93,
@@ -1491,7 +1491,7 @@
         {
             "id": 47,
             "name": "Marsiella",
-            "gender": "F",
+            "gender": "Female",
             "race": "Iroquois",
             "profession": "Automation Specialist IV",
             "age": 64,
@@ -1523,7 +1523,7 @@
         {
             "id": 48,
             "name": "Tabby",
-            "gender": "M",
+            "gender": "Male",
             "race": "Colombian",
             "profession": "Health Coach III",
             "age": 48,
@@ -1555,7 +1555,7 @@
         {
             "id": 49,
             "name": "Jard",
-            "gender": "M",
+            "gender": "Male",
             "race": "Blackfeet",
             "profession": "Programmer I",
             "age": 29,
@@ -1587,7 +1587,7 @@
         {
             "id": 50,
             "name": "Berton",
-            "gender": "M",
+            "gender": "Male",
             "race": "Potawatomi",
             "profession": "Senior Quality Engineer",
             "age": 76,
@@ -1619,7 +1619,7 @@
         {
             "id": 51,
             "name": "Marigold",
-            "gender": "F",
+            "gender": "Female",
             "race": "Paraguayan",
             "profession": "Recruiting Manager",
             "age": 7,
@@ -1651,7 +1651,7 @@
         {
             "id": 52,
             "name": "Corby",
-            "gender": "M",
+            "gender": "Male",
             "race": "Costa Rican",
             "profession": "Account Coordinator",
             "age": 56,
@@ -1683,7 +1683,7 @@
         {
             "id": 53,
             "name": "Fannie",
-            "gender": "F",
+            "gender": "Female",
             "race": "Colville",
             "profession": "Quality Engineer",
             "age": 60,
@@ -1715,7 +1715,7 @@
         {
             "id": 54,
             "name": "Rosemonde",
-            "gender": "F",
+            "gender": "Female",
             "race": "Puget Sound Salish",
             "profession": "Research Nurse",
             "age": 2,
@@ -1747,7 +1747,7 @@
         {
             "id": 55,
             "name": "Jenn",
-            "gender": "F",
+            "gender": "Female",
             "race": "Chilean",
             "profession": "Statistician IV",
             "age": 68,
@@ -1779,7 +1779,7 @@
         {
             "id": 56,
             "name": "Fidela",
-            "gender": "F",
+            "gender": "Female",
             "race": "Delaware",
             "profession": "Safety Technician I",
             "age": 3,
@@ -1811,7 +1811,7 @@
         {
             "id": 57,
             "name": "Andy",
-            "gender": "M",
+            "gender": "Male",
             "race": "American Indian",
             "profession": "Engineer III",
             "age": 54,
@@ -1843,7 +1843,7 @@
         {
             "id": 58,
             "name": "Galen",
-            "gender": "M",
+            "gender": "Male",
             "race": "Bangladeshi",
             "profession": "Data Coordiator",
             "age": 45,
@@ -1875,7 +1875,7 @@
         {
             "id": 59,
             "name": "Stephannie",
-            "gender": "F",
+            "gender": "Female",
             "race": "Crow",
             "profession": "Biostatistician III",
             "age": 28,
@@ -1907,7 +1907,7 @@
         {
             "id": 60,
             "name": "Gratiana",
-            "gender": "F",
+            "gender": "Female",
             "race": "Taiwanese",
             "profession": "Administrative Officer",
             "age": 100,
@@ -1939,7 +1939,7 @@
         {
             "id": 61,
             "name": "Eb",
-            "gender": "M",
+            "gender": "Male",
             "race": "Apache",
             "profession": "Librarian",
             "age": 8,
@@ -1971,7 +1971,7 @@
         {
             "id": 62,
             "name": "Hans",
-            "gender": "M",
+            "gender": "Male",
             "race": "Bolivian",
             "profession": "Speech Pathologist",
             "age": 64,
@@ -2003,7 +2003,7 @@
         {
             "id": 63,
             "name": "Huberto",
-            "gender": "M",
+            "gender": "Male",
             "race": "Bangladeshi",
             "profession": "Senior Quality Engineer",
             "age": 68,
@@ -2035,7 +2035,7 @@
         {
             "id": 64,
             "name": "Jackie",
-            "gender": "M",
+            "gender": "Male",
             "race": "Eskimo",
             "profession": "Electrical Engineer",
             "age": 35,
@@ -2067,7 +2067,7 @@
         {
             "id": 65,
             "name": "Vasilis",
-            "gender": "M",
+            "gender": "Male",
             "race": "Sri Lankan",
             "profession": "GIS Technical Architect",
             "age": 25,
@@ -2099,7 +2099,7 @@
         {
             "id": 66,
             "name": "Katerine",
-            "gender": "F",
+            "gender": "Female",
             "race": "Guatemalan",
             "profession": "Help Desk Technician",
             "age": 32,
@@ -2131,7 +2131,7 @@
         {
             "id": 67,
             "name": "Franklyn",
-            "gender": "M",
+            "gender": "Male",
             "race": "American Indian",
             "profession": "Automation Specialist I",
             "age": 12,
@@ -2163,7 +2163,7 @@
         {
             "id": 68,
             "name": "Jeffrey",
-            "gender": "M",
+            "gender": "Male",
             "race": "Guamanian",
             "profession": "Sales Representative",
             "age": 36,
@@ -2195,7 +2195,7 @@
         {
             "id": 69,
             "name": "Amelia",
-            "gender": "F",
+            "gender": "Female",
             "race": "Polynesian",
             "profession": "Human Resources Assistant I",
             "age": 32,
@@ -2227,7 +2227,7 @@
         {
             "id": 70,
             "name": "Dennie",
-            "gender": "M",
+            "gender": "Male",
             "race": "Cherokee",
             "profession": "Developer I",
             "age": 6,
@@ -2259,7 +2259,7 @@
         {
             "id": 71,
             "name": "Karlene",
-            "gender": "F",
+            "gender": "Female",
             "race": "Dominican (Dominican Republic)",
             "profession": "Programmer IV",
             "age": 39,
@@ -2291,7 +2291,7 @@
         {
             "id": 72,
             "name": "Albrecht",
-            "gender": "M",
+            "gender": "Male",
             "race": "Asian Indian",
             "profession": "Senior Financial Analyst",
             "age": 19,
@@ -2323,7 +2323,7 @@
         {
             "id": 73,
             "name": "Orville",
-            "gender": "M",
+            "gender": "Male",
             "race": "Filipino",
             "profession": "Accountant I",
             "age": 66,
@@ -2355,7 +2355,7 @@
         {
             "id": 74,
             "name": "Dall",
-            "gender": "M",
+            "gender": "Male",
             "race": "Colombian",
             "profession": "Project Manager",
             "age": 80,
@@ -2387,7 +2387,7 @@
         {
             "id": 75,
             "name": "Keri",
-            "gender": "F",
+            "gender": "Female",
             "race": "Latin American Indian",
             "profession": "Project Manager",
             "age": 74,
@@ -2419,7 +2419,7 @@
         {
             "id": 76,
             "name": "Gregorius",
-            "gender": "M",
+            "gender": "Male",
             "race": "Panamanian",
             "profession": "Director of Sales",
             "age": 69,
@@ -2451,7 +2451,7 @@
         {
             "id": 77,
             "name": "Emelina",
-            "gender": "F",
+            "gender": "Female",
             "race": "Asian",
             "profession": "Budget/Accounting Analyst II",
             "age": 29,
@@ -2483,7 +2483,7 @@
         {
             "id": 78,
             "name": "Tuck",
-            "gender": "M",
+            "gender": "Male",
             "race": "Native Hawaiian",
             "profession": "Programmer Analyst III",
             "age": 71,
@@ -2515,7 +2515,7 @@
         {
             "id": 79,
             "name": "Leonerd",
-            "gender": "M",
+            "gender": "Male",
             "race": "Fijian",
             "profession": "Account Coordinator",
             "age": 9,
@@ -2547,7 +2547,7 @@
         {
             "id": 80,
             "name": "Brodie",
-            "gender": "M",
+            "gender": "Male",
             "race": "Kiowa",
             "profession": "Occupational Therapist",
             "age": 72,
@@ -2579,7 +2579,7 @@
         {
             "id": 81,
             "name": "Nikola",
-            "gender": "M",
+            "gender": "Male",
             "race": "Black or African American",
             "profession": "Senior Quality Engineer",
             "age": 37,
@@ -2611,7 +2611,7 @@
         {
             "id": 82,
             "name": "Delora",
-            "gender": "F",
+            "gender": "Female",
             "race": "Yaqui",
             "profession": "Design Engineer",
             "age": 1,
@@ -2643,7 +2643,7 @@
         {
             "id": 83,
             "name": "Rhiamon",
-            "gender": "F",
+            "gender": "Female",
             "race": "Pima",
             "profession": "Structural Analysis Engineer",
             "age": 39,
@@ -2675,7 +2675,7 @@
         {
             "id": 84,
             "name": "Christoforo",
-            "gender": "M",
+            "gender": "Male",
             "race": "Uruguayan",
             "profession": "VP Quality Control",
             "age": 81,
@@ -2707,7 +2707,7 @@
         {
             "id": 85,
             "name": "Frank",
-            "gender": "F",
+            "gender": "Female",
             "race": "Aleut",
             "profession": "Computer Systems Analyst IV",
             "age": 17,
@@ -2739,7 +2739,7 @@
         {
             "id": 86,
             "name": "Bail",
-            "gender": "M",
+            "gender": "Male",
             "race": "Seminole",
             "profession": "Structural Engineer",
             "age": 68,
@@ -2771,7 +2771,7 @@
         {
             "id": 87,
             "name": "Mayor",
-            "gender": "M",
+            "gender": "Male",
             "race": "Chickasaw",
             "profession": "Senior Financial Analyst",
             "age": 24,
@@ -2803,7 +2803,7 @@
         {
             "id": 88,
             "name": "Nonnah",
-            "gender": "F",
+            "gender": "Female",
             "race": "Choctaw",
             "profession": "Statistician III",
             "age": 19,
@@ -2835,7 +2835,7 @@
         {
             "id": 89,
             "name": "Gerard",
-            "gender": "M",
+            "gender": "Male",
             "race": "Menominee",
             "profession": "Administrative Officer",
             "age": 28,
@@ -2867,7 +2867,7 @@
         {
             "id": 90,
             "name": "Audrye",
-            "gender": "F",
+            "gender": "Female",
             "race": "Indonesian",
             "profession": "VP Sales",
             "age": 85,
@@ -2899,7 +2899,7 @@
         {
             "id": 91,
             "name": "Marlane",
-            "gender": "F",
+            "gender": "Female",
             "race": "Yuman",
             "profession": "Business Systems Development Analyst",
             "age": 79,
@@ -2931,7 +2931,7 @@
         {
             "id": 92,
             "name": "Johny",
-            "gender": "M",
+            "gender": "Male",
             "race": "Chickasaw",
             "profession": "Nurse",
             "age": 58,
@@ -2963,7 +2963,7 @@
         {
             "id": 93,
             "name": "Urbano",
-            "gender": "M",
+            "gender": "Male",
             "race": "Cherokee",
             "profession": "Administrative Officer",
             "age": 77,
@@ -2995,7 +2995,7 @@
         {
             "id": 94,
             "name": "Andee",
-            "gender": "F",
+            "gender": "Female",
             "race": "Asian",
             "profession": "Geologist II",
             "age": 1,
@@ -3027,7 +3027,7 @@
         {
             "id": 95,
             "name": "Oralia",
-            "gender": "F",
+            "gender": "Female",
             "race": "Eskimo",
             "profession": "Operator",
             "age": 6,
@@ -3059,7 +3059,7 @@
         {
             "id": 96,
             "name": "Codie",
-            "gender": "F",
+            "gender": "Female",
             "race": "Pima",
             "profession": "Financial Analyst",
             "age": 15,
@@ -3091,7 +3091,7 @@
         {
             "id": 97,
             "name": "Karissa",
-            "gender": "F",
+            "gender": "Female",
             "race": "Sioux",
             "profession": "Speech Pathologist",
             "age": 7,
@@ -3123,7 +3123,7 @@
         {
             "id": 98,
             "name": "Evin",
-            "gender": "M",
+            "gender": "Male",
             "race": "Chippewa",
             "profession": "Safety Technician I",
             "age": 49,
@@ -3155,7 +3155,7 @@
         {
             "id": 99,
             "name": "Jefferson",
-            "gender": "M",
+            "gender": "Male",
             "race": "Yakama",
             "profession": "Cost Accountant",
             "age": 89,
@@ -3187,7 +3187,7 @@
         {
             "id": 100,
             "name": "Shannon",
-            "gender": "F",
+            "gender": "Female",
             "race": "Lumbee",
             "profession": "Account Executive",
             "age": 97,
