@@ -5,6 +5,7 @@ import { HeroResolver } from './core/resolvers/hero.resolver';
 import { DetailComponent } from './components/detail/detail.component';
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 import { SingleHeroResolver } from './core/resolvers/single-hero.resolver';
+import { AvatarResolver } from './core/resolvers/avatar.resolver';
 
 
 const routes: Routes = [
@@ -21,7 +22,8 @@ const routes: Routes = [
     component: DetailComponent,
     pathMatch: 'full',
     resolve: {
-      heroDetails: SingleHeroResolver
+      heroDetails: SingleHeroResolver,
+      heroAvatar: AvatarResolver
     }
   },
   {

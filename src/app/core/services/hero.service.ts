@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Hero } from '../interfaces/hero.interface';
-import { throwError } from 'rxjs';
+import { throwError, Observable } from 'rxjs';
 import { catchError } from 'rxjs/operators';
 
 const ORIGIN = 'http://127.0.0.1:3000';
@@ -39,5 +39,9 @@ export class HeroService {
 
   getHero(id) {
     return this.http.get<Hero>(ORIGIN + '/hero?id='+id);
+  }
+
+  getAvatar(id): Observable<Blob> {
+    return this.http.get('https://picsum.photos/200', {responseType: "blob"})
   }
 }

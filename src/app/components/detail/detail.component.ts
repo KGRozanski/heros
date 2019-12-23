@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ElementRef, AfterViewInit, ViewChild } from '@angular/core';
 import { HeroService } from 'src/app/core/services/hero.service';
 import { ActivatedRoute } from '@angular/router';
 
@@ -7,15 +7,26 @@ import { ActivatedRoute } from '@angular/router';
   templateUrl: './detail.component.html',
   styleUrls: ['./detail.component.scss']
 })
-export class DetailComponent implements OnInit {
+export class DetailComponent implements OnInit, AfterViewInit {
 
-  constructor(private hs: HeroService, private route: ActivatedRoute) { }
+  constructor(private hs: HeroService, private route: ActivatedRoute, private elRef: ElementRef) { }
+
+
+  ngAfterViewInit(): void {
+    //Called after ngAfterContentInit when the component's view has been initialized. Applies to components only.
+    //Add 'implements AfterViewInit' to the class.
+    var img = this.elRef.nativeElement.getElementsByClassName('avatar')[0];
+    img.src = URL.createObjectURL(this.heroAvatar);
+  }
 
   private hero;
+  private heroAvatar;
 
   ngOnInit() {
     this.hero = this.route.snapshot.data['heroDetails'][0];
-    console.log(this.hero)
+    this.heroAvatar = this.route.snapshot.data['heroAvatar'];
+    console.log(this.hero);
+    console.log(this.heroAvatar);
   }
   
 
