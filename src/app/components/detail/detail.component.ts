@@ -11,11 +11,11 @@ export class DetailComponent implements OnInit {
 
   constructor(private hs: HeroService, private route: ActivatedRoute) { }
 
-  private heroObject;
+  private hero;
 
   ngOnInit() {
-    this.heroObject = this.route.snapshot.data['heroDetails'];
-    console.log(this.heroObject)
+    this.hero = this.route.snapshot.data['heroDetails'][0];
+    console.log(this.hero)
   }
   
 
