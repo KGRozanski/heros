@@ -3,6 +3,8 @@ import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Hero } from '../interfaces/hero.interface';
 import { throwError } from 'rxjs';
 import { catchError } from 'rxjs/operators';
+import { map } from 'rxjs/operators';
+import { ValueConverter } from '@angular/compiler/src/render3/view/template';
 
 const ORIGIN = 'http://127.0.0.1:3000';
 
@@ -35,5 +37,9 @@ export class HeroService {
     .pipe(
       catchError(this.handleError)
     )    
+  }
+
+  getHero(id) {
+    return this.http.get<Hero>(ORIGIN + '/hero?id='+id);
   }
 }

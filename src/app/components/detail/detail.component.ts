@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { HeroService } from 'src/app/core/services/hero.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-detail',
@@ -7,9 +9,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DetailComponent implements OnInit {
 
-  constructor() { }
+  constructor(private hs: HeroService, private route: ActivatedRoute) { }
+
+  private heroObject;
 
   ngOnInit() {
+    this.heroObject = this.route.snapshot.data['heroDetails'];
+    console.log(this.heroObject)
   }
+  
 
 }
