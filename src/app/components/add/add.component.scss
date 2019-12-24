@@ -1,0 +1,73 @@
+form{
+    width: 100%;
+}
+.container{
+    padding: 20px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 3fr;
+    grid-template-areas: 
+    "info look stats description";
+    grid-gap: 20px;
+    > div {
+        padding: 20px;
+        background-color: #f3f3f3;
+        > caption{
+            font-size: 1.5em;
+        }
+    }
+    .description {
+        grid-area: description;
+        overflow-y: scroll;
+        max-height: 500px;
+        .description-element{
+            background-color: #eeeeee;
+            padding: 0 15px;
+        }
+    }
+    .stats{
+        grid-area: stats;
+    }
+    .look{
+        grid-area: look;
+    }
+    .info{ 
+        grid-area: info;
+    }
+    mat-form-field{
+        width: 100%;
+    }
+}
+.btn-submit{
+    margin: 0 auto;
+    display: block;
+}
+
+@media screen and (max-width: 992px) {
+    .grid-container{
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas: 
+            "info look stats"
+            "description description description";
+    }
+}
+@media screen and (max-width: 768px) {
+    .grid-container{
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 
+            "info look"
+            "stats stats"
+            "description description";
+    }
+}
+@media screen and (max-width: 576px) {
+    .grid-container{
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "info"
+            "look"
+            "stats"
+            "description";
+    }
+}

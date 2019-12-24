@@ -8,76 +8,60 @@
     <div class="stats">
         <h1>{{hero.name}}</h1>
         <img class="avatar" src="null" alt="Hero avatar">
-        <table>
-            <caption>Info:</caption>
-            <tr>
-                <td>Age</td>
-                <td>{{hero.age}}</td>
-            </tr>
-            <tr>
-                <td>Gender</td>
-                <td>{{hero.gender}}</td>
-            </tr>
-            <tr>
-                <td>Birth</td>
-                <td>{{hero.birth_place}}</td>
-            </tr>
-            <tr>
-                <td>Race</td>
-                <td>{{hero.race}}</td>
-            </tr>
-            <tr>
-                <td>Profession</td>
-                <td>{{hero.profession}}</td>
-            </tr>
-        </table>
         <br>
-        <table>
-            <caption>Stats:</caption>
-            <tr>
-                <td>Strength</td>
-                <td>{{hero.stats.strength}}</td>
-            </tr>
-            <tr>
-                <td>Endurance</td>
-                <td>{{hero.stats.endurance}}</td>
-            </tr>
-            <tr>
-                <td>Agility</td>
-                <td>{{hero.stats.agility}}</td>
-            </tr>
-            <tr>
-                <td>Intelligence</td>
-                <td>{{hero.stats.intelligence}}</td>
-            </tr>
-            <tr>
-                <td>Charisma</td>
-                <td>{{hero.stats.charisma}}</td>
-            </tr>
-        </table>
+        <caption>Info:</caption>
+        <div class="stats-details">
+            <div class="caption">Age:</div>
+            <div class="value">{{hero.age}}</div>
+
+            <div class="caption">Gender:</div>
+            <div class="value">{{hero.gender}}</div>
+
+            <div class="caption">Birth:</div>
+            <div class="value">{{hero.birth_place}}</div>
+
+            <div class="caption">Race:</div>
+            <div class="value">{{hero.race}}</div>
+
+            <div class="caption">Profession:</div>
+            <div class="value">{{hero.profession}}</div>
+        </div>
         <br>
-        <table>
-            <caption>Look:</caption>
-            <tr>
-                <td>Height</td>
-                <td>{{hero.look.height}}</td>
-            </tr>
-            <tr>
-                <td>Hair</td>
-                <td>{{hero.look.hair}}</td>
-            </tr>
-            <tr>
-                <td>Eyes</td>
-                <td>{{hero.look.eyes}}</td>
-            </tr>
-            <tr>
-                <td>Skin</td>
-                <td>{{hero.look.skin}}</td>
-            </tr>
-            <tr>
-                <td>Special</td>
-                <td>{{hero.look.special_characters}}</td>
-            </tr>
-        </table>
+        <caption>Stats:</caption>
+        <div class="stats-details">
+            <div class="caption">Strength:</div>
+            <div class="value">{{hero.stats.strength}}</div>
+            
+            <div class="caption">Endurance:</div>
+            <div class="value">{{hero.stats.endurance}}</div>
+
+            <div class="caption">Agility:</div>
+            <div class="value">{{hero.stats.agility}}</div>
+
+            <div class="caption">Intelligence:</div>
+            <div class="value">{{hero.stats.intelligence}}</div>
+
+            <div class="caption">Charisma:</div>
+            <div class="value">{{hero.stats.charisma}}</div>
+        </div>
+        <br>
+        <caption>Look:</caption>
+        <div class="stats-details">
+            <div class="caption">Height:</div>
+            <div class="value">{{hero.look.height}}</div>
+            
+            <div class="caption">Hair:</div>
+            <div class="value">{{hero.look.hair}}</div>
+
+            <div class="caption">Eyes:</div>
+            <div class="value">{{hero.look.eyes}}</div>
+
+            <div class="caption">Skin:</div>
+            <div class="value">{{hero.look.skin}}</div>
+
+            <div class="caption">Special:</div>
+            <div class="value">{{hero.look.special_characters}}</div>   
+        </div>
+
     </div>
 </div>

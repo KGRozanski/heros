@@ -1,13 +1,94 @@
-<h1>New hero details:</h1>
-<form [formGroup]="heroForm" (ngSubmit)="onSubmit()">
-    <mat-form-field class="example-full-width">
-        <input formControlName="name" matInput placeholder="Name" value="">
-    </mat-form-field>
-    <br>
-    <mat-radio-group aria-label="Select an option" formControlName="gender">
-        <mat-radio-button value="Male">Male</mat-radio-button>
-        <mat-radio-button value="Female">Female</mat-radio-button>
-      </mat-radio-group>
-    <br>
-    <button mat-raised-button color="primary" type="submit" [disabled]="!heroForm.valid">Submit</button>
-</form>
+<div class="container">
+    <h1>New hero details:</h1>
+    <form [formGroup]="heroForm" (ngSubmit)="onSubmit()">
+        <div class="grid-container">
+            <div class="info">
+                <caption>Info:</caption>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="name" matInput placeholder="Name" value="">
+                </mat-form-field>
+                <br>
+                <mat-radio-group aria-label="Select an option" formControlName="gender">
+                    <mat-radio-button color="primary" value="Male">Male</mat-radio-button>
+                    &nbsp;
+                    <mat-radio-button color="primary" value="Female">Female</mat-radio-button>
+                </mat-radio-group>
+                <br>
+                <mat-form-field>
+                    <mat-label>Breed</mat-label>
+                    <mat-select formControlName="race">
+                        <mat-option *ngFor="let race of races" [value]="race.name">
+                            {{race.name}}
+                        </mat-option>
+                    </mat-select>
+                </mat-form-field>
+                <br>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="profession" matInput placeholder="Profession" value="">
+                </mat-form-field>
+                <br>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="age" matInput placeholder="Age" value="">
+                </mat-form-field>
+                <br>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="birth_place" matInput placeholder="Birth place" value="">
+                </mat-form-field>
+            </div>
+            <div class="look" formGroupName="look">
+                <caption>Look:</caption>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="height" matInput placeholder="Height" value="">
+                </mat-form-field>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="hair" matInput placeholder="Hairs" value="">
+                </mat-form-field>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="eyes" matInput placeholder="Eyes" value="">
+                </mat-form-field>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="skin" matInput placeholder="Skin" value="">
+                </mat-form-field>
+                <app-chip-input (specialCharEvent)="receiveCharacters($event)"></app-chip-input>
+
+            </div>
+            <div class="stats">
+                <caption>Stats:</caption>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="strength" matInput placeholder="Strength" value="">
+                </mat-form-field>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="endurance" matInput placeholder="Endurance" value="">
+                </mat-form-field>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="agility" matInput placeholder="Agility" value="">
+                </mat-form-field>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="intelligence" matInput placeholder="Intelligence" value="">
+                </mat-form-field>
+                <mat-form-field class="example-full-width">
+                    <input formControlName="charisma" matInput placeholder="Charisma" value="">
+                </mat-form-field>
+            </div>
+            <div class="description" formArrayName="description">
+                <caption>Description:</caption>
+                <br>
+                <div *ngFor="let item of heroForm.get('description').controls; let i = index;">
+                    <div class="description-element" [formGroupName]="i">
+                        <mat-form-field class="example-full-width">
+                            <input formControlName="title" matInput placeholder="Title" value="">
+                        </mat-form-field>
+                        <br>
+                        <mat-form-field>
+                            <textarea formControlName="content" matInput placeholder="Content"></textarea>
+                        </mat-form-field>
+                    </div>
+                </div>
+                <br>
+                <button mat-raised-button color="accent" (click)="addDescription()" >Add</button>
+            </div>
+        </div>
+        <br>
+        <button class="btn-submit" mat-raised-button color="primary" type="submit" [disabled]="!heroForm.valid">Submit new hero</button>
+    </form>
+</div>

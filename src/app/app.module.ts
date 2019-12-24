@@ -10,6 +10,9 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { MatRadioModule } from '@angular/material/radio';
+import { MatSelectModule } from '@angular/material/select';
+import { MatChipsModule } from '@angular/material/chips';
+import { MatIconModule } from '@angular/material/icon';
 
 import { ReactiveFormsModule } from '@angular/forms';
 
@@ -18,6 +21,7 @@ import { ListComponent } from './components/list/list.component';
 import { DetailComponent } from './components/detail/detail.component';
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 import { AddComponent } from './components/add/add.component';
+import { ChipInputComponent } from './components/chip-input/chip-input.component';
 
 
 @NgModule({
@@ -26,7 +30,8 @@ import { AddComponent } from './components/add/add.component';
     ListComponent,
     DetailComponent,
     PageNotFoundComponent,
-    AddComponent
+    AddComponent,
+    ChipInputComponent
   ],
   imports: [
     BrowserModule,
@@ -38,8 +43,9 @@ import { AddComponent } from './components/add/add.component';
     MatInputModule,
     MatButtonModule,
     MatRadioModule,
-    
-    
+    MatSelectModule,
+    MatChipsModule,
+    MatIconModule
   ],
   providers: [
     HeroService

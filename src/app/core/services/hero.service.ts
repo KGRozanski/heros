@@ -54,5 +54,8 @@ export class HeroService {
 
   getAvatar(id): Observable<Blob> {
     return this.http.get('https://picsum.photos/200', {responseType: "blob"})
+    .pipe(
+      catchError(this.handleError)
+    )
   }
 }
