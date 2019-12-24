@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, Validators, FormGroup, FormControl } from '@angular/forms';
+import { FormArray, FormBuilder, Validators, FormGroup } from '@angular/forms';
 import { ActivatedRoute } from '@angular/router';
-import { ChipInputComponent } from '../chip-input/chip-input.component';
 import { SpecialCharacters } from 'src/app/core/interfaces/specialCharacters.interface';
 
 @Component({
@@ -15,10 +14,10 @@ export class AddComponent implements OnInit {
 
   ngOnInit() {
     this.races = this.route.snapshot.data['races'];
-    console.log(this.races);
   }
   private races;
   private specialCharacters: SpecialCharacters[];
+  private descriptions;
 
   private heroForm = this.fb.group({
     name: ['', Validators.required],
@@ -39,15 +38,24 @@ export class AddComponent implements OnInit {
     agility: ['', Validators.pattern('^[0-9]+$')],
     intelligence: ['', Validators.pattern('^[0-9]+$')],
     charisma: ['', Validators.pattern('^[0-9]+$')],
-    description: this.fb.group({
-      title: [''],
-      content: ['']
-    })
+    description: this.fb.array([ this.createDescription() ])
   });
 
   onSubmit() {
     // TODO: Use EventEmitter with form value
     console.warn(this.heroForm.value);
+  }
+
+  createDescription(): FormGroup {
+    return this.fb.group({
+      title: '',
+      content: ''
+    });
+  }
+
+  addDescription(): void {
+    this.descriptions = this.heroForm.get('description') as FormArray;
+    this.descriptions.push(this.createDescription());
   }
 
   receiveCharacters($event) {

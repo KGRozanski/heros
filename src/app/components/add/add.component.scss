@@ -1,5 +1,8 @@
 form{
-    width: 100vw;
+    width: 100%;
+}
+.container{
+    padding: 20px;
 }
 .grid-container{
     display: grid;
@@ -7,7 +10,6 @@ form{
     grid-template-areas: 
     "info look stats description";
     grid-gap: 20px;
-    padding: 20px;
     > div {
         padding: 20px;
         background-color: #f3f3f3;
@@ -17,6 +19,8 @@ form{
     }
     .description {
         grid-area: description;
+        overflow-y: scroll;
+        max-height: 500px;
         .description-element{
             background-color: #eeeeee;
             padding: 0 15px;
