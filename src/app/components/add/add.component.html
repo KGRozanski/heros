@@ -9,15 +9,15 @@
                 </mat-form-field>
                 <br>
                 <mat-radio-group aria-label="Select an option" formControlName="gender">
-                    <mat-radio-button color="primary" value="Male">Male</mat-radio-button>
+                    <mat-radio-button color="primary" value="M">Male</mat-radio-button>
                     &nbsp;
-                    <mat-radio-button color="primary" value="Female">Female</mat-radio-button>
+                    <mat-radio-button color="primary" value="F">Female</mat-radio-button>
                 </mat-radio-group>
                 <br>
                 <mat-form-field>
                     <mat-label>Breed</mat-label>
                     <mat-select formControlName="race">
-                        <mat-option *ngFor="let race of races" [value]="race.name">
+                        <mat-option *ngFor="let race of races" [value]="race.id">
                             {{race.name}}
                         </mat-option>
                     </mat-select>
@@ -52,7 +52,7 @@
                 <app-chip-input (specialCharEvent)="receiveCharacters($event)"></app-chip-input>
 
             </div>
-            <div class="stats">
+            <div class="stats" formGroupName="stats">
                 <caption>Stats:</caption>
                 <mat-form-field class="example-full-width">
                     <input formControlName="strength" matInput placeholder="Strength" value="">
@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <br>
-                <button mat-raised-button color="accent" (click)="addDescription()" >Add</button>
+                <button mat-raised-button color="accent" type="button" (click)="addDescription()" >Add</button>
             </div>
         </div>
         <br>

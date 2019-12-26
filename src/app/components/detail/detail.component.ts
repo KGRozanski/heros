@@ -26,7 +26,7 @@ export class DetailComponent implements OnInit, AfterViewInit {
 
   ngOnInit() {
     //Getting data from the resolver
-    this.hero = this.route.snapshot.data['heroDetails'][0];
+    this.hero = this.route.snapshot.data['heroDetails']['data'];
     this.heroAvatar = this.route.snapshot.data['heroAvatar'];
     console.log(this.hero);
   }

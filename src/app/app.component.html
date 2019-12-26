@@ -1,12 +1,20 @@
 <mat-toolbar color="primary">
-  <mat-toolbar-row>
+  <mat-toolbar-row class="first-toolbar">
     <a href="/home" ><h1><i class="fas fa-dragon"></i> Heroes</h1></a>
+    <div class="search-bar" *ngIf="router.url === '/home'" [@slideInOut]>
+      &nbsp;<i class="fas fa-search search"></i>
+      <mat-form-field class="example-full-width">
+        <input matInput (keyup)="onSearch($event)" value="">
+      </mat-form-field>
+    </div>
+    <button class="button" mat-raised-button color="accent" routerLink="/add">Add hero</button>
+  </mat-toolbar-row>
+  <mat-toolbar-row class="second-toolbar" [@slideInOut] class="phone-search-bar" *ngIf="router.url === '/home'">
     <div>
       &nbsp;<i class="fas fa-search search"></i>
       <mat-form-field class="example-full-width">
-      <input matInput value="">
+        <input matInput (keyup)="onSearch($event)" value="">
       </mat-form-field>
-      <button class="button" mat-raised-button color="accent" routerLink="/add">Add hero</button>
     </div>
   </mat-toolbar-row>
 </mat-toolbar>
