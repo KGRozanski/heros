@@ -13,6 +13,8 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatSelectModule } from '@angular/material/select';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatIconModule } from '@angular/material/icon';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { MatSliderModule } from '@angular/material/slider';
 
 import { ReactiveFormsModule } from '@angular/forms';
 
@@ -23,6 +25,7 @@ import { PageNotFoundComponent } from './components/page-not-found/page-not-foun
 import { AddComponent } from './components/add/add.component';
 import { ChipInputComponent } from './components/chip-input/chip-input.component';
 
+import { AngularEditorModule } from '@kolkov/angular-editor';
 
 @NgModule({
   declarations: [
@@ -45,7 +48,11 @@ import { ChipInputComponent } from './components/chip-input/chip-input.component
     MatRadioModule,
     MatSelectModule,
     MatChipsModule,
-    MatIconModule
+    MatIconModule,
+    MatSnackBarModule,
+    MatSliderModule,
+    AngularEditorModule
+    
   ],
   providers: [
     HeroService

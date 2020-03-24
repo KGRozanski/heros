@@ -1,5 +1,5 @@
 <div class="container">
-    <h1>New hero details:</h1>
+    <h1>Add a new hero:</h1>
     <form [formGroup]="heroForm" (ngSubmit)="onSubmit()">
         <div class="grid-container">
             <div class="info">
@@ -9,15 +9,15 @@
                 </mat-form-field>
                 <br>
                 <mat-radio-group aria-label="Select an option" formControlName="gender">
-                    <mat-radio-button color="primary" value="Male">Male</mat-radio-button>
+                    <mat-radio-button color="primary" value="M">Male</mat-radio-button>
                     &nbsp;
-                    <mat-radio-button color="primary" value="Female">Female</mat-radio-button>
+                    <mat-radio-button color="primary" value="F">Female</mat-radio-button>
                 </mat-radio-group>
                 <br>
                 <mat-form-field>
                     <mat-label>Breed</mat-label>
                     <mat-select formControlName="race">
-                        <mat-option *ngFor="let race of races" [value]="race.name">
+                        <mat-option *ngFor="let race of races" [value]="race.id">
                             {{race.name}}
                         </mat-option>
                     </mat-select>
@@ -52,43 +52,33 @@
                 <app-chip-input (specialCharEvent)="receiveCharacters($event)"></app-chip-input>
 
             </div>
-            <div class="stats">
+            <div class="stats" formGroupName="stats">
                 <caption>Stats:</caption>
-                <mat-form-field class="example-full-width">
-                    <input formControlName="strength" matInput placeholder="Strength" value="">
-                </mat-form-field>
-                <mat-form-field class="example-full-width">
-                    <input formControlName="endurance" matInput placeholder="Endurance" value="">
-                </mat-form-field>
-                <mat-form-field class="example-full-width">
-                    <input formControlName="agility" matInput placeholder="Agility" value="">
-                </mat-form-field>
-                <mat-form-field class="example-full-width">
-                    <input formControlName="intelligence" matInput placeholder="Intelligence" value="">
-                </mat-form-field>
-                <mat-form-field class="example-full-width">
-                    <input formControlName="charisma" matInput placeholder="Charisma" value="">
-                </mat-form-field>
+                    <span>Strenght:</span><br>
+                    <mat-slider (input)="changeStats('strenght', $event.value)" color="primary" formControlName="strenght" min="0" max="100" step="5" value="0"></mat-slider>
+                    {{this.stats.strenght}}
+                    <span>Endurance:</span><br>
+                    <mat-slider (input)="changeStats('endurance', $event.value)" color="primary" formControlName="endurance" min="0" max="100" step="5" value="0"></mat-slider>
+                    {{this.stats.endurance}}
+                    <span>Agility:</span><br>
+                    <mat-slider (input)="changeStats('agility', $event.value)" color="primary" formControlName="agility" min="0" max="100" step="5" value="0"></mat-slider>
+                    {{this.stats.agility}}
+                    <span>Intelligence:</span><br>
+                    <mat-slider (input)="changeStats('intelligence', $event.value)" color="primary" formControlName="intelligence" min="0" max="100" step="5" value="0"></mat-slider>
+                    {{this.stats.intelligence}}
+                    <span>Charisma:</span><br>
+                    <mat-slider (input)="changeStats('charisma', $event.value)" color="primary" formControlName="charisma" min="0" max="100" step="5" value="0"></mat-slider>
+                    {{this.stats.charisma}}
             </div>
-            <div class="description" formArrayName="description">
+            <div class="description">
                 <caption>Description:</caption>
-                <br>
-                <div *ngFor="let item of heroForm.get('description').controls; let i = index;">
-                    <div class="description-element" [formGroupName]="i">
-                        <mat-form-field class="example-full-width">
-                            <input formControlName="title" matInput placeholder="Title" value="">
-                        </mat-form-field>
-                        <br>
-                        <mat-form-field>
-                            <textarea formControlName="content" matInput placeholder="Content"></textarea>
-                        </mat-form-field>
-                    </div>
-                </div>
-                <br>
-                <button mat-raised-button color="accent" (click)="addDescription()" >Add</button>
+                <angular-editor formControlName="htmlContent" [config]="editorConfig"></angular-editor>
             </div>
         </div>
         <br>
         <button class="btn-submit" mat-raised-button color="primary" type="submit" [disabled]="!heroForm.valid">Submit new hero</button>
     </form>
+
+    
+
 </div>
