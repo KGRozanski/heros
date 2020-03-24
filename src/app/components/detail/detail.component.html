@@ -1,9 +1,6 @@
 <div class="grid-container">
-    <div class="content">
-        <div class="paragraph" *ngFor="let hero of hero.description">
-            <h2>{{hero.title}}</h2>
-            <p>{{hero.content}}</p>
-        </div>
+    <div class="content" [innerHtml]="this.hero.htmlContent">
+
     </div>
     <div class="stats">
         <h1>{{hero.name}}</h1>
@@ -29,8 +26,8 @@
         <br>
         <caption>Stats:</caption>
         <div class="stats-details">
-            <div class="caption">Strength:</div>
-            <div class="value">{{hero.stats.strength}}</div>
+            <div class="caption">Strenght:</div>
+            <div class="value">{{hero.stats.strenght}}</div>
             
             <div class="caption">Endurance:</div>
             <div class="value">{{hero.stats.endurance}}</div>

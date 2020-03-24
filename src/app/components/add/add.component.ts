@@ -1,8 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import { FormArray, FormBuilder, Validators, FormGroup } from '@angular/forms';
+import { FormBuilder, Validators} from '@angular/forms';
 import { ActivatedRoute } from '@angular/router';
 import { SpecialCharacters } from 'src/app/core/interfaces/specialCharacters.interface';
 import { HeroService } from 'src/app/core/services/hero.service';
+import { MatSnackBar } from '@angular/material/snack-bar';
+import { AngularEditorConfig } from '@kolkov/angular-editor';
 
 @Component({
   selector: 'app-add',
@@ -11,11 +13,43 @@ import { HeroService } from 'src/app/core/services/hero.service';
 })
 export class AddComponent implements OnInit {
 
-  constructor(private fb: FormBuilder, private route: ActivatedRoute, private hs: HeroService) { }
+  constructor(private fb: FormBuilder, private route: ActivatedRoute, private hs: HeroService, private snackBar: MatSnackBar) { }
 
   ngOnInit() {
     this.races = this.route.snapshot.data['races'];
   }
+
+  private editorConfig: AngularEditorConfig = {
+    editable: true,
+    spellcheck: true,
+    height: 'auto',
+    minHeight: '300px',
+    maxHeight: 'auto',
+    width: 'auto',
+    minWidth: '0',
+    translate: 'yes',
+    enableToolbar: true,
+    showToolbar: true,
+    placeholder: 'Enter text here...',
+    defaultParagraphSeparator: '',
+    defaultFontName: '',
+    defaultFontSize: '',
+    fonts: [
+      {class: 'arial', name: 'Arial'},
+      {class: 'times-new-roman', name: 'Times New Roman'},
+      {class: 'calibri', name: 'Calibri'},
+      {class: 'comic-sans-ms', name: 'Comic Sans MS'}
+    ],
+    uploadUrl: 'https://herospace.pl/api/hero/8/avatar',
+    sanitize: true,
+    toolbarPosition: 'top',
+    toolbarHiddenButtons: [
+      ['insertVideo'],
+      ['fontSize']
+    ]
+  };
+
+
   private races;
   private specialCharacters: SpecialCharacters[];
   private descriptions;
@@ -35,14 +69,29 @@ export class AddComponent implements OnInit {
       special_characters: [null]
     }),
     stats: this.fb.group({
-      strength: [null, Validators.pattern('^[0-9]+$')],
+      strenght: [null, Validators.pattern('^[0-9]+$')],
       endurance: [null, Validators.pattern('^[0-9]+$')],
       agility: [null, Validators.pattern('^[0-9]+$')],
       intelligence: [null, Validators.pattern('^[0-9]+$')],
       charisma: [null, Validators.pattern('^[0-9]+$')],
     }),
-    description: this.fb.array([ this.createDescription() ])
+    htmlContent: [null]
+    // description: this.fb.array([ this.createDescription() ]),
   });
+
+  private stats = {
+    strenght: 0,
+    endurance: 0,
+    agility: 0,
+    intelligence: 0,
+    charisma: 0
+  }
+
+  changeStats(property, value) {
+    this.stats[property] = value;
+  }
+
+
 
   //Function for removing null values from form object
   clean(obj) {
@@ -61,21 +110,11 @@ export class AddComponent implements OnInit {
     this.clean(submittedForm);   
     console.log(submittedForm);
     this.hs.addHero(this.heroForm.value).subscribe((data) => {
-      console.log(data)
+      console.log(data);
+      this.snackBar.open(data['message'], null, {duration: 3000})
     })
   }
 
-  createDescription(): FormGroup {
-    return this.fb.group({
-      title: ['', Validators.required],
-      content: ['', Validators.required]
-    });
-  }
-
-  addDescription(): void {
-    this.descriptions = this.heroForm.get('description') as FormArray;
-    this.descriptions.push(this.createDescription());
-  }
 
   receiveCharacters($event) {
     this.specialCharacters = $event;

@@ -28,6 +28,9 @@ form{
     }
     .stats{
         grid-area: stats;
+        mat-slider{
+            width: calc(100% - 2rem);
+        }
     }
     .look{
         grid-area: look;
