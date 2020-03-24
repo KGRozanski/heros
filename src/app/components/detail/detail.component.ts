@@ -19,6 +19,7 @@ export class DetailComponent implements OnInit, AfterViewInit {
     //Setting downloaded blob avatar to img element
     var img = this.elRef.nativeElement.getElementsByClassName('avatar')[0];
     img.src = URL.createObjectURL(this.heroAvatar);
+    console.log(this.hero)
   }
 
   private hero;

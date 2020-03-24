@@ -46,8 +46,7 @@ export class HeroService {
   searchHero(name) {
     this.http.get<Hero>(ORIGIN + '/hero?name=' + name, {headers: this.headers})
     .subscribe((value) => {
-      console.log(value['data'])
-      this.updateHeroSource(value['data'])
+      this.updateHeroSource(value['data']);
     })
   }
 
